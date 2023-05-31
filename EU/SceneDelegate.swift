@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  EU
 //
-//  Created by 謝榮駿 on 2023/5/22.
+
 //
 
 import UIKit
